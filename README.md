@@ -2,7 +2,7 @@
 
 ## Welcome
 
-I'm Ignacio, Economist and Data Scientist from Argentina 🇦🇷 ⭐⭐⭐ (y también hincha de River ⬜🟥⬜)
+I'm Ignacio, Economist and Data Scientist from Argentina 🇦🇷 ⭐⭐⭐ (y también hincha de River [⬜🟥⬜](https://www.youtube.com/watch?v=t-4fGdeg9og))
 
 ## About me
 
