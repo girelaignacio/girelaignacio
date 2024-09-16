@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Ignacio, Data Scientist from Argentina 🇦🇷 ⭐⭐⭐ (y también hincha del Más Grande :chicken:)
+## Welcome
+
+I'm Ignacio, Economist and Data Scientist from Argentina 🇦🇷 ⭐⭐⭐ (y también hincha del Más Grande :chicken:)
 
 <!--
 **girelaignacio/girelaignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
