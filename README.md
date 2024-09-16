@@ -6,7 +6,7 @@ I'm Ignacio, Economist and Data Scientist from Argentina 🇦🇷 ⭐⭐⭐ (y t
 
 ## About me
 
-I'm a PhD Fellow at CONICET and a PhD Student in Economics at the Universidad Nacional de Córdoba, Argentina.
+I'm a PhD Fellow at CONICET and a PhD Student in Economics at the Universidad Nacional de Córdoba, Argentina, under the supervision of [Rodrigo García Arancibia](https://sites.google.com/site/rgarciaarancibia/home).
 <!--
 **girelaignacio/girelaignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
