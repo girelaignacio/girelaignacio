@@ -8,7 +8,7 @@ I'm Ignacio, Economist and Data Scientist from 🇦🇷 Argentina ⭐⭐⭐ (hin
 
 I'm a [CONICET](https://www.conicet.gov.ar/?lan=en) Doctoral Fellow and a PhD Student in Economics at the [UNC](https://www.unc.edu.ar/), under the supervision of [Rodrigo García Arancibia](https://sites.google.com/site/rgarciaarancibia/home).
 
-Grosso modo, I'm interested in using AI to help solve real-world problems.
+*Grosso modo*, I'm interested in using AI to help solve real-world problems.
 <!--
 **girelaignacio/girelaignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
